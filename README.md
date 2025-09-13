@@ -1,9 +1,9 @@
-# Burnout-Legends-Better-Skies
+# Burnout-Legends-Refined-Visuals
 by TheGoat07s
 
 Perhaps the intended look for Burnout Legends
 
-Better Skies for Burnout Legends is a modification that aims to improve the overall visuals of the game without drifting too far from the game's original look.
+Refined Visuals for Burnout Legends is a modification that aims to improve the overall visuals of the game without drifting too far from the game's original look.
 
 One of the reasons for Burnout Legends' subpar visuals, even for a PSP game, is that the skyboxes do not match the lighting of the track/level or the other way around: the track do not match the lighting of the sky. Additionally, lighting on vehicles appears to be stationary: always behind the player vehicle and not positioned where the sun is supposed to be.
 
