@@ -21,13 +21,11 @@ Features:
 > Only tested on ULUS10025 and ULES00125
 > 
 > Installation:
-> 
 > * Using your preferred .iso editor (e.g. UMDGen), simply drag and drop the "PSP_GAME" folder into the game directory, then save a new .iso file.
 > 
 > * In the PPSSPP directory, drag and drop the folder "ULUS10025" or "ULES00125" (check your game version) into "memstick/PSP/TEXTURES".
 > 
 > In PPSSPP:
-> 
 > * Enable "Replace textures", found in "Game settings/Tools/Developer tools/Texture replacement".
 > 
 > * Navigate to "Display layout & effects" then add "PSP Color". This will reduce the yellow-green tint of the game. See comparison below:
