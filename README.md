@@ -8,12 +8,10 @@ Better Skies for Burnout Legends is a modification that aims to improve the over
 One of the reasons for Burnout Legends' subpar visuals, even for a PSP game, is that the skyboxes do not match the lighting of the track/level or the other way around: the track do not match the lighting of the sky. Additionally, lighting on vehicles appears to be stationary: always behind the player vehicle and not positioned where the sun is supposed to be.
 
 Features:
-
 * PS2-like skyboxes
 * Directional lighting on vehicles
 * More visible distant fog
 * New reflection map for the garage
-
 
 > [!IMPORTANT]
 > This mod is intended for PPSSPP
